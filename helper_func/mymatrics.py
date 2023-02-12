@@ -51,7 +51,6 @@ def f1_m(y_true, y_pred):
 # y_pred = np.array([[0.2, 0.6, 0.7],
 #                             [0.2, 0.6, 0.6],
 #                             [0.6, 0.8, 0.0]], np.float32)
-
 # res = f1_m(y_true, y_pred)
 # print(res.numpy())
 
