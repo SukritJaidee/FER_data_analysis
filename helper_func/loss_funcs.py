@@ -35,3 +35,13 @@ def categorical_focal_loss(gamma=2.0, alpha=0.25):
         loss = K.sum(loss, axis=1)
         return loss
     return focal_loss
+
+
+##@title CCE
+# y_true = [[0, 1, 0], [0, 0, 1]]
+# y_pred = [[0.05, 0.95, 0], [0.1, 0.8, 0.1]]
+# print(np.array(y_true).shape)
+# print(np.array(y_pred).shape)
+# # Using 'auto'/'sum_over_batch_size' reduction type.
+# cce = tf.keras.losses.CategoricalCrossentropy()
+# cce(y_true, y_pred).numpy()
