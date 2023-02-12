@@ -1,5 +1,5 @@
 from keras import backend as K
-
+## section1
 def recall_1(y_true, y_pred):
     y_true = K.ones_like(y_true)
     true_positives = K.sum(K.round(K.clip(y_true * y_pred, 0, 1)))
@@ -28,6 +28,7 @@ def f1_score_1(y_true, y_pred):
 # res = f1_score_1(y_true, y_pred).numpy()
 # print(res)
 
+## section2
 def recall_m(y_true, y_pred):
     true_positives = K.sum(K.round(K.clip(y_true * y_pred, 0, 1)))
     all_positives = K.sum(K.round(K.clip(y_true, 0, 1)))
@@ -54,7 +55,7 @@ def f1_m(y_true, y_pred):
 # res = f1_m(y_true, y_pred)
 # print(res.numpy())
 
-
+## section3
 ## @title tfa.metrics.F1Score (# Multilabel)
 
 # metric = tfa.metrics.F1Score(num_classes=5, threshold=0.5)
