@@ -9,3 +9,10 @@
 
 ## Reference
 - https://towardsdatascience.com/data-maps-datasets-can-be-distilled-too-1991c3c260d6
+- https://www.analyticsvidhya.com/blog/2021/07/performing-multi-class-classification-on-fifa-dataset-using-keras/
+- https://github.com/christianversloot/machine-learning-articles/blob/main/how-to-use-sparse-categorical-crossentropy-in-keras.md
+- https://gist.github.com/wassname/ce364fddfc8a025bfab4348cf5de852d
+- https://stackabuse.com/custom-keras-callback-for-saving-prediction-on-each-epoch-with-visualizations/
+- https://faroit.com/keras-docs/2.1.5/callbacks/
+- https://raw.githubusercontent.com/aldi-dimara/keras-focal-loss/master/focal_loss.py
+- https://blog.kyoma.top/posts/16007/
