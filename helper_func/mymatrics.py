@@ -18,3 +18,13 @@ def f1_score_1(y_true, y_pred):
     precision = precision_1(y_true, y_pred)
     recall = recall_1(y_true, y_pred)
     return 2*((precision*recall)/(precision+recall+K.epsilon()))
+
+
+# y_true = np.array([[1, 1, 1],
+#                             [1, 0, 0],
+#                             [1, 1, 0]], np.float32)
+# y_pred = np.array([[0.2, 0.6, 0.7],
+#                             [0.2, 0.6, 0.6],
+#                             [0.6, 0.8, 0.0]], np.float32)
+# res = f1_score_1(y_true, y_pred).numpy()
+# print(res)
