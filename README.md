@@ -17,3 +17,4 @@
 - https://faroit.com/keras-docs/2.1.5/callbacks/
 - https://raw.githubusercontent.com/aldi-dimara/keras-focal-loss/master/focal_loss.py
 - https://blog.kyoma.top/posts/16007/
+- <p><a href="https://colab.research.google.com/github/jckantor/cbe61622/blob/master/docs/A.02-Downloading_Python_source_files_from_github.ipynb#scrollTo=3xKIi-4L1I4E">Github</a></p>
