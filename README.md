@@ -7,6 +7,7 @@
 - <a href="https://colab.research.google.com/drive/1hb9WMtYGeTOZWYUMNUCic3hh8nmKVpGh?usp=sharing">mu_cartography.ipynb</a>
 - <a href="https://colab.research.google.com/drive/11EflmC1J-J5fu6qcAoyFZQL3IGTsG92W?usp=sharing">custom_cartography.ipynb</a>
 - <a href="https://colab.research.google.com/drive/12t7fcOeZ4Rx7gLW24fnorJgJ-3GICewm?usp=sharing">mu_cartography.ipynb</a>
+- <a href="https://colab.research.google.com/drive/1D9NFNJ_UnBvcOvHoTYSBHs8mfGD9vyxo?usp=sharing">select_model_mu_cartography.ipynb</a>
 
 ## Backup Code
 
