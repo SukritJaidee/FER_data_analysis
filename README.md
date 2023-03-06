@@ -6,10 +6,9 @@
 - <a href="https://colab.research.google.com/drive/1d5OfydNHiGAOE2s6qEOqGaEmL9fPj1g9?usp=sharing">PyTorch_2.ipynb</a>
 - <a href="https://colab.research.google.com/drive/1hb9WMtYGeTOZWYUMNUCic3hh8nmKVpGh?usp=sharing">mu_cartography.ipynb</a>
 - <a href="https://colab.research.google.com/drive/11EflmC1J-J5fu6qcAoyFZQL3IGTsG92W?usp=sharing">custom_cartography.ipynb</a>
-
+- <a href="https://colab.research.google.com/drive/12t7fcOeZ4Rx7gLW24fnorJgJ-3GICewm?usp=sharing">mu_cartography.ipynb</a>
 
 ## Backup Code
-
 
 ## Reference
 - https://towardsdatascience.com/data-maps-datasets-can-be-distilled-too-1991c3c260d6
