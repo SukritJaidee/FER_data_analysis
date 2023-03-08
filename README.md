@@ -9,6 +9,7 @@
 - <a href="https://colab.research.google.com/drive/12t7fcOeZ4Rx7gLW24fnorJgJ-3GICewm?usp=sharing">mu_cartography.ipynb</a>
 - <a href="https://colab.research.google.com/drive/1D9NFNJ_UnBvcOvHoTYSBHs8mfGD9vyxo?usp=sharing">select_model_mu_cartography.ipynb</a>
 - <a href="https://colab.research.google.com/drive/16LuipYNCoaRzfmE1tu7M2Wrza09KJEtF?usp=sharing">select_model_mu_cartography_v1.ipynb</a>
+- <a href="https://colab.research.google.com/drive/1Mujh0OCN6eCmOL7wRC01YbgotYqYyWVI?usp=sharing">สำเนาของ select_model_mu_cartography_v1.ipynb</a>
 
 ## Backup Code
 
