@@ -12,6 +12,13 @@
 - <a href="https://colab.research.google.com/drive/17P4akPBb3LKRf0e9MRC3x1ZJrBFvoyXD?usp=sharing">Test Data.ipynb</a>
 
 - <a href="https://colab.research.google.com/drive/1Mujh0OCN6eCmOL7wRC01YbgotYqYyWVI?usp=sharing">mu_cartography_ambiguous.ipynb</a>
+- <a href="https://colab.research.google.com/drive/18tXZYTCPzOl5eZ8pAdjGFYlSCzA_dxJR?usp=sharing">plot_cluster.ipynb</a>
+- <a href="AAAAAAAAAAAAA">AAAAAAAAAAAAA</a>
+- <a href="AAAAAAAAAAAAA">AAAAAAAAAAAAA</a>
+- <a href="AAAAAAAAAAAAA">AAAAAAAAAAAAA</a>
+- <a href="AAAAAAAAAAAAA">AAAAAAAAAAAAA</a>
+- <a href="AAAAAAAAAAAAA">AAAAAAAAAAAAA</a>
+
 
 ## New code
 - <a href="https://colab.research.google.com/drive/11TbA0CaMvnM8MaIaIXQijmKkjlYoi-Fm?usp=sharing">oneclass_data_analysis.ipynb</a>
