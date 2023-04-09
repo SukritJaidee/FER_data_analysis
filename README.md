@@ -23,7 +23,7 @@
 - <a href="https://colab.research.google.com/drive/11TbA0CaMvnM8MaIaIXQijmKkjlYoi-Fm?usp=sharing">oneclass_data_analysis.ipynb</a>
 - <a href="https://colab.research.google.com/drive/11TbA0CaMvnM8MaIaIXQijmKkjlYoi-Fm?usp=sharing">1class_data_angry0.ipynb</a>
 - <a href="https://colab.research.google.com/drive/1ELw-SoBnNyNQ2pnz-CXth29iMVEcl0Nc?usp=sharing">1class_data_happy1.ipynb</a>
-- <a href="https://colab.research.google.com/drive/1bo95t56bI44gmbSBSbdK3VxLJHVuWhfk?usp=sharing">oneclass_data_analysis_class2_neutral.ipynb</a>
+- <a href="https://colab.research.google.com/drive/1bo95t56bI44gmbSBSbdK3VxLJHVuWhfk?usp=sharing">1class_data_neutral2.ipynb</a>
 - <a href="https://colab.research.google.com/drive/1GdFKVGsLBLsTln0ccAg-gszsvVrGJv8H?usp=sharing">oneclass_data_analysis_class3_relax.ipynb</a>
 - <a href="https://colab.research.google.com/drive/1uoD5REwBJ0EP_nCN1oWW0yy7UoPThvMa?usp=sharing">oneclass_data_analysis_class4_sad.ipynb</a>
 
