@@ -41,5 +41,6 @@
 - https://neptune.ai/blog/google-colab-dealing-with-files
 - https://github.com/allenai/cartography
 - https://hxhc.xyz/post/from-keras-to-pytorch/
+- https://tavolo.readthedocs.io/en/latest/learning.html#examples
 
 
